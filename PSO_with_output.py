@@ -152,3 +152,63 @@ plt.xlabel("Iteration")
 plt.ylabel("Fitness")
 plt.grid(True)
 plt.show()
+
+output:
+Upload an image (any format).
+WhatsApp Image 2025-11-18 at 10.33.39 PM (2).jpeg
+WhatsApp Image 2025-11-18 at 10.33.39 PM (2).jpeg(image/jpeg) - 178516 bytes, last modified: 18/11/2025 - 100% done
+Saving WhatsApp Image 2025-11-18 at 10.33.39 PM (2).jpeg to WhatsApp Image 2025-11-18 at 10.33.39 PM (2).jpeg
+Iteration 1/50, Best Threshold = 120, Fitness = 2187.4603
+Iteration 2/50, Best Threshold = 119, Fitness = 2187.7561
+Iteration 3/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 4/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 5/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 6/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 7/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 8/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 9/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 10/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 11/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 12/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 13/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 14/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 15/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 16/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 17/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 18/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 19/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 20/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 21/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 22/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 23/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 24/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 25/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 26/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 27/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 28/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 29/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 30/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 31/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 32/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 33/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 34/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 35/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 36/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 37/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 38/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 39/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 40/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 41/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 42/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 43/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 44/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 45/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 46/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 47/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 48/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 49/50, Best Threshold = 118, Fitness = 2187.8321
+Iteration 50/50, Best Threshold = 118, Fitness = 2187.8321
+
+PSO Complete!
+Best Threshold: 118
+USN: 1BM23CS239
